@@ -7,4 +7,7 @@ Das Ziel dieses Versuches ist es, ein funktionsfähiges Modell einer Solaranlage
 
 ## Umsetzung
 
-Aufbauend auf einem Elegoo Uno R3 (Billgere Variante eines Arduinos), wurde eine Schaltung erstellt, welche das ganze Simulieren soll.
+Aufbauend auf einem Elegoo Uno R3 (Billgere Variante eines Arduinos), wurde eine Schaltung erstellt, welche sozusagen das Gehirn der Schaltung darstellt.
+Ansonsten gibt es noch:
+
+- 
