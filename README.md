@@ -1,11 +1,12 @@
 # Solar Power Management System
 
-The Solar Power Management System is a powerful tool that allows you to manage and monitor a solar power system. It's written in Arduino C and can control relays to manage power flow and display system information on an LCD.
+The Solar Power Management System is a simplified functional model that was part of a W-Seminar work at Karolinengymnasium Rosenheim in the field of building physics. It demonstrates the basic principles of managing and monitoring a solar power system. It's written in Arduino C and can control relays to manage power flow and display system information on an LCD.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Seminar Paper](#seminar-paper)
 - [Known Bugs](#bugs)
 - [Contributing](#contributing)
 - [License](#license)
@@ -30,6 +31,12 @@ The LCD will display the following information:
 - The current power consumption of the load in Amps.
 - The current power production of the solar cells in Amps.
 - The current status of the battery (charging, discharging, or idle).
+
+Please note that this is a simplified model and does not represent the complexities of a real-world solar power management system.
+
+## Seminar Paper
+
+The seminar paper associated with this project is also available in this repository. It provides a detailed explanation of the principles of solar power management and the design of this functional model. The paper is written in German and can be found in the file `Paper.pdf`.
 
 ## Bugs
 
