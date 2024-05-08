@@ -1,6 +1,6 @@
 # Solar Power Management System
 
-The Solar Power Management System is a simplified functional model that was part of a W-Seminar work at Karolinengymnasium Rosenheim in the field of building physics. It demonstrates the basic principles of managing and monitoring a solar power system. It's written in Arduino C and can control relays to manage power flow and display system information on an LCD.
+The Solar Power Management System is a simplified functional model that was part of a W-Seminar work at Karolinen-Gymnasium Rosenheim in the field of "Bauphysik". It demonstrates the basic principles of managing and monitoring a solar power system. It's written in Arduino C and can control relays to manage power flow and display system information on an LCD.
 
 ## Table of Contents
 
